@@ -1,0 +1,2 @@
+npm install react-plotly.js plotly.js
+npm i react-data-table-component
